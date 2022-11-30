@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OBSCalc</string>
+    <string name="lmp">LMP:</string>
+    <string name="today_s_date">Today\'s Date:</string>
+    <string name="ega">EGA:</string>
+    <string name="edd">EDD:</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_lmp_here">Enter LMP here</string>
+    <string name="enter_today_s_date_here">Enter today\'s date here</string>
+    <string name="result">result</string>
+</resources>
